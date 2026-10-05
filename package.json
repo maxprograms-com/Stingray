@@ -19,7 +19,7 @@
         "url": "https://github.com/rmraya/Stingray.git"
     },
     "devDependencies": {
-        "electron": "^43.4.0",
+        "electron": "^44.5.1",
         "typescript": "^5.9.3"
     }
 }
